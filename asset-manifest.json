@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/track-stocks/static/css/main.073c9b0a.css",
+    "main.js": "/track-stocks/static/js/main.0783c1a2.js",
+    "static/js/787.600f3f33.chunk.js": "/track-stocks/static/js/787.600f3f33.chunk.js",
+    "static/media/logo.svg": "/track-stocks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/track-stocks/index.html",
+    "main.073c9b0a.css.map": "/track-stocks/static/css/main.073c9b0a.css.map",
+    "main.0783c1a2.js.map": "/track-stocks/static/js/main.0783c1a2.js.map",
+    "787.600f3f33.chunk.js.map": "/track-stocks/static/js/787.600f3f33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0783c1a2.js"
+  ]
+}
